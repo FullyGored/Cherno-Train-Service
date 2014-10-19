@@ -1,0 +1,14 @@
+	class Vehicles
+	{
+		items=1;
+		class Item0
+		{
+			position[]={13113.642,6.0146008,10507.089};
+			azimut=199.69299;
+			id=1;
+			side="EMPTY";
+			vehicle="Land_loco_742_blue";
+			skill=0.60000002;
+			init="_nil = [this,1] execVM ""scripts\Train\Train_Start.sqf"";";
+		};
+	};
