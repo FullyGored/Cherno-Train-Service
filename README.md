@@ -28,3 +28,8 @@ Add this to the mission.sqm file
 Just change the location here ^^up there if you put it into a different folder.
 
 Might have to add some battleye filters.
+
+
+I would like to thank Zonekiller for the orginal files =)
+Script by Zonekiller  -- http://zonekiller.ath.cx --    -- zonekiller@live.com.au --
+http://www.armaholic.com/page.php?id=16784
