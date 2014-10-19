@@ -24,5 +24,7 @@ Add this to the mission.sqm file
 			init="_nil = [this,1] execVM ""scripts\Train\Train_Start.sqf"";";
 		};
 	};
-	
+
+Just change the location here ^^up there if you put it into a different folder.
+
 Might have to add some battleye filters.
