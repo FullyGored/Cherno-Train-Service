@@ -31,19 +31,19 @@ Might have to add some battleye filters.
 
 Add this to description.ext
 
-class CfgSounds
-{
-    sounds[] = {};
+	class CfgSounds
+	{
+	sounds[] = {};
 
-    class NoSound
-    {
-    name = "NoSound";
-        sound[] = {"", 0, 1};
-        titles[] = {};
-    };
+	class NoSound 
+	{
+	name = "NoSound";
+		sound[] = {"", 0, 1};
+		titles[] = {};
+	};
 
-#include "scripts\Train\sounds.hpp"
-
+	#include "scripts\Train\sounds.hpp"
+	};
 
 I would like to thank Zonekiller for the orginal files =)
 Script by Zonekiller  -- http://zonekiller.ath.cx --    -- zonekiller@live.com.au --
