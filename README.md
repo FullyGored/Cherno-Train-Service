@@ -29,6 +29,21 @@ Just change the location here ^^up there if you put it into a different folder.
 
 Might have to add some battleye filters.
 
+Add this to description.ext
+
+class CfgSounds
+{
+    sounds[] = {};
+
+    class NoSound
+    {
+    name = "NoSound";
+        sound[] = {"", 0, 1};
+        titles[] = {};
+    };
+
+#include "scripts\Train\sounds.hpp"
+
 
 I would like to thank Zonekiller for the orginal files =)
 Script by Zonekiller  -- http://zonekiller.ath.cx --    -- zonekiller@live.com.au --

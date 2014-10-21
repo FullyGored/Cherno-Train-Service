@@ -1,0 +1,13 @@
+class CfgSounds
+{
+	sounds[] = {};
+
+	class NoSound 
+	{
+	name = "NoSound";
+		sound[] = {"", 0, 1};
+		titles[] = {};
+	};
+
+#include "scripts\Train\sounds.hpp"
+};
